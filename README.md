@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermeduarteb&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermeduarteb" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thetypor" target="blank"><img src="https://img.shields.io/twitter/follow/thetypor?logo=twitter&style=for-the-badge" alt="thetypor" /></a> </p>
-
 - 🌱 I’m currently learning **C#, HTML and pretending learn Python**
 
 - 📫 How to reach me **guiguiguidurte@gmail.com**
