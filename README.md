@@ -2,9 +2,8 @@
 <h3 align="center">A Little Portuguese Programer Student ;)</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/939460630593468448/7B040C227BF147ED629738EA3974331CE5971FD5/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=guilhermeduarteb&label=Profile%20views&color=0e75b6&style=flat](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)" alt="guilhermeduarteb" /> </p>
 
-- 🌱 I’m currently learning **C#, HTML and pretending learn Python**
+- 🌱 I’m currently learning **C#, JavaScript and pretending learn Python**
 
 - 📫 How to reach me **guiguiguidurte@gmail.com**
 
