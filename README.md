@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme :D</h1>
 <h3 align="center">A Little Portuguese Programer Student ;)</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/939460630593468448/7B040C227BF147ED629738EA3974331CE5971FD5/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-
-
 - 🌱 I’m currently learning **C#, JavaScript and pretending learn Python**
 
 - 📫 How to reach me **guiguiguidurte@gmail.com**
