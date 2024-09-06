@@ -14,6 +14,10 @@
 
 ###
 
+<img align="right" height="214" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-branco-496815276/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -49,9 +53,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDuarteB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="174" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeDuarteB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="174" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=GuilhermeDuarteB&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="174" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDuarteB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeDuarteB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="100" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=GuilhermeDuarteB&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="100" alt="streak graph"  />
 </div>
 
 ###
@@ -65,15 +69,5 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=freddys_bear&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<img align="right" height="214" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif"  />
 
 ###
