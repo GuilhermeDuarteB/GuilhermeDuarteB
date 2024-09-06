@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning JavaScript and In the future PHP<br>🎯 Goals: Be the best programmer<br>🌐 Portuguese and English<br>🎲 Fun facts: Love games,series, animes and codding ofc</p>
+<img align="right" height="214" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif"  />
 
 ###
 
-<img align="right" height="214" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif"  />
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning JavaScript and In the future PHP<br>🎯 Goals: Be the best programmer<br>🌐 Portuguese and English<br>🎲 Fun facts: Love games,series, animes and codding ofc</p>
 
 ###
 
@@ -53,14 +53,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDuarteB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeDuarteB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="100" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=GuilhermeDuarteB&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDuarteB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeDuarteB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/GuilhermeDuarteB/GuilhermeDuarteB/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -69,5 +64,9 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=freddys_bear&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/GuilhermeDuarteB/GuilhermeDuarteB/output/snake.svg" alt="Snake animation" />
 
 ###
