@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning JavaScript and In the future PHP<br>🎯 Goals: Be the best programmer<br>🌐 Portuguese and English<br>🎲 Fun facts: Love games,series, animes and codding ofc</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning JavaScript and PHp and In the future Python<br>🎯 Goals: Be the best programmer<br>🌐 Portuguese and English<br>🎲 Fun facts: Love games,series, animes and codding ofc</p>
 
 ###
 
