@@ -1,136 +1,154 @@
-<h1 align="left">Hey there! I'm Guilherme 👋</h1>
+ <div align="center">
 
-<p align="left">
-  💻 Software Development Student | 🇵🇹 Portugal
-</p>
+# Hey, I'm Guilherme! 👋
 
-<img align="right" width="170" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif" alt="Hollow Knight animation" />
+**Software Development Student · Full-Stack & Mobile Development**
 
-<h2 align="left">👨‍💻 About Me</h2>
+🇵🇹 Portugal
 
-<p align="left">
-  I'm a 19-year-old software development student, currently studying a <b>CTeSP at ISTEC</b>.
-  <br><br>
-  I enjoy turning ideas into real projects, solving problems, and learning new technologies along the way.
-  I'm especially interested in <b>Full-Stack Development</b>, <b>Mobile Development</b>, and exploring how <b>Artificial Intelligence</b> can be integrated into applications.
-</p>
+*Building things, breaking things, and figuring out how to make them better.*
 
-<p align="left">
-  ✨ Creating bugs (and fixing them) since 2022
-  <br>
-  🚀 Learning by building real-world projects
-  <br>
-  📱 Currently exploring React Native and TypeScript
-  <br>
-  🤖 Interested in AI and its practical applications
-  <br>
-  🌍 Languages: Portuguese 🇵🇹 & English 🇬🇧
-  <br>
-  🎮 Fun facts: I love video games, anime, movies, TV series, and coding!
-</p>
+<a href="https://www.linkedin.com/in/guilhermbranco/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:guiguiguiduarte@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-<br clear="both">
-
-<h2 align="left">🛠️ Tech Stack</h2>
-
-<h3 align="left">💻 Languages</h3>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" height="45" alt="Programming languages" />
 </div>
 
-<h3 align="left">🎨 Frontend & Mobile</h3>
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vue,react" height="45" alt="Frontend technologies" />
-</div>
+<img align="right" width="150" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif" alt="Hollow Knight" />
 
-<p align="left">
-  Vue.js • React Native (Learning)
+## 👾 A little about me
+
+I'm **Guilherme**, a 19-year-old software development student from Portugal, currently studying a **CTeSP at ISTEC**.
+
+I enjoy turning ideas into working applications and learning new technologies through hands-on projects. From full-stack websites to mobile apps and small desktop tools, I'm always looking for something new to build.
+
+- 💻 Coding and creating bugs since **2022**
+- 🌐 Interested in **full-stack web development**
+- 📱 Currently building mobile apps with **React Native & Expo**
+- 🤖 Exploring **AI integrations** and their practical uses
+- 🎮 Into video games, anime, movies and TV shows
+- 🗣️ **Portuguese & English**
+
+<br clear="right" />
+
+## 🛠️ Technologies I've worked with
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,php,html,css,c" alt="Programming languages" />
 </p>
 
-<h3 align="left">⚙️ Backend & Databases</h3>
+### Frontend & Mobile
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres" height="45" alt="Backend and database technologies" />
-</div>
-
-<h3 align="left">🔧 Tools & Technologies</h3>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45" alt="Development tools" />
-</div>
-
-<h2 align="left">🚀 Featured Projects</h2>
-
-<h3 align="left">
-  🎬 <a href="https://github.com/GuilhermeDuarteB/YourFavoriteProfile">YourFavoriteProfile</a>
-</h3>
-
-<p align="left">
-  A full-stack web application inspired by my passion for movies, TV series, and video games.
-  <br><br>
-  Built using <b>Vue.js, Node.js, Express.js, and PostgreSQL</b>, with integrations with external APIs.
-  <br><br>
-  🔗 <a href="https://yourfavoriteprofile.vercel.app">Live Website</a>
-  &nbsp;|&nbsp;
-  💻 <a href="https://github.com/GuilhermeDuarteB/YourFavoriteProfile">Source Code</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,react,vite" alt="Frontend technologies" />
 </p>
 
-<h3 align="left">
-  💸 <a href="https://github.com/GuilhermeDuarteB/WalletWise">WalletWise</a>
-</h3>
+**Vue.js · React · React Native · Expo · Pinia · Vue Router**
 
-<p align="left">
-  A mobile finance application that I'm developing while improving my skills in <b>React Native and TypeScript</b>.
-  <br><br>
-  📱 Mobile Development
-  <br>
-  🚧 Work in Progress
-  <br><br>
-  💻 <a href="https://github.com/GuilhermeDuarteB/WalletWise">Source Code</a>
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,postgres" alt="Backend technologies" />
 </p>
 
-<h2 align="left">🌱 Currently Learning & Exploring</h2>
+**Node.js · Express.js · ASP.NET Core · PostgreSQL · SQL Server · REST APIs**
 
-<p align="left">
-  📱 Building mobile applications with React Native
-  <br>
-  🏗️ Improving my software architecture and clean code practices
-  <br>
-  🤖 Exploring Artificial Intelligence and AI integrations
-  <br>
-  🔐 Learning more about application security and best practices
-  <br>
-  🚀 Becoming a better Full-Stack Developer
+### Tools & Other Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,azure,unity" alt="Development tools" />
 </p>
 
-<h2 align="left">📊 GitHub Stats</h2>
+**Git · GitHub · Azure · Unity · Windows Forms · Tkinter**
+
+*Some technologies are part of larger projects, while others come from coursework, experiments and things I'm currently learning.*
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 Your Favorite Profile
+
+**A full-stack platform for movies, TV shows and video games.**
+
+Discover titles, write reviews, track what you've watched or played, create a public profile and share your favorites.
+
+**Stack:** Vue 3 · Node.js · Express · PostgreSQL · Pinia · TMDB API · RAWG API
+
+[🌐 Live Website](https://yourfavoriteprofile.vercel.app) · [💻 Source Code](https://github.com/GuilhermeDuarteB/YourFavoriteProfile)
+
+### 💙 WiseWallet
+
+**A personal finance mobile application.**
+
+A project focused on making it easier to track income, expenses and financial habits through a simple mobile experience.
+
+**Stack:** React Native · Expo · TypeScript · React Navigation
+
+🚧 *Currently in development. Local persistence, cloud synchronization and AI-powered features are part of the roadmap.*
+
+[💻 Source Code](https://github.com/GuilhermeDuarteB/WiseWallet)
+
+### 🫂 Ombro Amigo
+
+**A web platform connecting users with healthcare and wellness professionals.**
+
+Developed as my **PAP (Prova de Aptidão Profissional)**, this project helped me gain experience building a complete web application with authentication, databases and service booking.
+
+**Stack:** PHP · JavaScript · HTML · CSS · SQL Server · Azure
+
+[💻 Source Code](https://github.com/GuilhermeDuarteB/OmbroAmigo)
+
+### 🤖 AI Voice Assistant
+
+**A Python desktop assistant powered by Google's Gemini API.**
+
+An experiment with AI integration, featuring a graphical interface, conversational context and text-to-speech functionality.
+
+**Stack:** Python · Google Gemini API · Tkinter · pyttsx3
+
+[💻 Source Code](https://github.com/GuilhermeDuarteB/AIVoiceAssistant)
+
+---
+
+## 🧪 Other things I've built
+
+My repositories also include smaller projects and experiments, such as:
+
+- ☁️ [Weather Forms Application](https://github.com/GuilhermeDuarteB/WeatherFormsApplication) — C# Windows Forms app using a weather API
+- 📝 [Vue To-Do List](https://github.com/GuilhermeDuarteB/ToDoList-VueJs) — Task management with Vue 3 and Pinia
+- 🧮 [GUI Calculator](https://github.com/GuilhermeDuarteB/GUI_Calculator) — Desktop calculator built with Python and Tkinter
+- 🏗️ [ConstruMateriais](https://github.com/GuilhermeDuarteB/ConstruMateriais) — PHP web application for managing products and orders
+
+---
+
+## 🌱 What's next?
+
+Right now, I'm focused on:
+
+**Mobile development** — improving my React Native skills by building a complete application.
+
+**Software engineering** — writing cleaner code, designing better architectures and building more reliable systems.
+
+**Artificial intelligence** — exploring useful ways to integrate AI into real applications.
+
+And, of course, continuing to build projects inspired by the things I enjoy.
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDuarteB&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDuarteB&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
-</div>
 
-<h2 align="left">📫 Let's Connect!</h2>
+### 🎮 Beyond the code
 
-<p align="left">
-  Feel free to reach out if you want to collaborate on a project, exchange ideas, or just talk about technology!
-</p>
+*Games, anime, movies, series and a never-ending list of project ideas.*
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-branco-496815276/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:guiguiguiduarte@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" />
-  </a>
-</div>
+**Thanks for visiting! Feel free to explore my repositories.** ✨
 
-<br>
-
-<div align="center">
-  <i>“The best way to learn is by building.” 🚀</i>
-  <br><br>
-  ⭐ Thanks for visiting my profile!
 </div>
