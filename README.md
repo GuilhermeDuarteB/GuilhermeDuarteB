@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Hey, I'm Guilherme! 👋
 
@@ -8,7 +8,10 @@
 
 *Building things, breaking things, and figuring out how to make them better.*
 
-<a href="https://www.linkedin.com/in/guilhermbranco/">
+<a href="https://www.guilhermebranco.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/guilherme-branco-496815276/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:guiguiguiduarte@gmail.com">
@@ -140,6 +143,18 @@ Right now, I'm focused on:
 **Artificial intelligence** — exploring useful ways to integrate AI into real applications.
 
 And, of course, continuing to build projects inspired by the things I enjoy.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDuarteB&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDuarteB&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
+
+</div>
 
 ---
 
