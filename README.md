@@ -44,7 +44,7 @@ I enjoy turning ideas into working applications and learning new technologies th
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,php,html,css,c" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,php,html,css" alt="Programming languages" />
 </p>
 
 ### Frontend & Mobile
