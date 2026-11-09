@@ -99,65 +99,6 @@ A project focused on making it easier to track income, expenses and financial ha
 
 [💻 Source Code](https://github.com/GuilhermeDuarteB/WiseWallet)
 
-### 🫂 Ombro Amigo
-
-**A web platform connecting users with healthcare and wellness professionals.**
-
-Developed as my **PAP (Prova de Aptidão Profissional)**, this project helped me gain experience building a complete web application with authentication, databases and service booking.
-
-**Stack:** PHP · JavaScript · HTML · CSS · SQL Server · Azure
-
-[💻 Source Code](https://github.com/GuilhermeDuarteB/OmbroAmigo)
-
-### 🤖 AI Voice Assistant
-
-**A Python desktop assistant powered by Google's Gemini API.**
-
-An experiment with AI integration, featuring a graphical interface, conversational context and text-to-speech functionality.
-
-**Stack:** Python · Google Gemini API · Tkinter · pyttsx3
-
-[💻 Source Code](https://github.com/GuilhermeDuarteB/AIVoiceAssistant)
-
----
-
-## 🧪 Other things I've built
-
-My repositories also include smaller projects and experiments, such as:
-
-- ☁️ [Weather Forms Application](https://github.com/GuilhermeDuarteB/WeatherFormsApplication) — C# Windows Forms app using a weather API
-- 📝 [Vue To-Do List](https://github.com/GuilhermeDuarteB/ToDoList-VueJs) — Task management with Vue 3 and Pinia
-- 🧮 [GUI Calculator](https://github.com/GuilhermeDuarteB/GUI_Calculator) — Desktop calculator built with Python and Tkinter
-- 🏗️ [ConstruMateriais](https://github.com/GuilhermeDuarteB/ConstruMateriais) — PHP web application for managing products and orders
-
----
-
-## 🌱 What's next?
-
-Right now, I'm focused on:
-
-**Mobile development** — improving my React Native skills by building a complete application.
-
-**Software engineering** — writing cleaner code, designing better architectures and building more reliable systems.
-
-**Artificial intelligence** — exploring useful ways to integrate AI into real applications.
-
-And, of course, continuing to build projects inspired by the things I enjoy.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDuarteB&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDuarteB&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 🎮 Beyond the code
